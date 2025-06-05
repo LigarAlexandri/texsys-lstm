@@ -1,0 +1,9 @@
+flask
+flask_cors
+tensorflow 
+pandas
+numpy
+scikit-learn
+mysql-connector-python
+python-dotenv
+joblib
